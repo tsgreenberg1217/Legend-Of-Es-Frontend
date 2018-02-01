@@ -1,7 +1,7 @@
 # Ledgend of Es 
 ## Play the game [here](https://nickpaolino.github.io/legend-of-es-demo/)
 
-##Description 
+## Description 
 * Play as one of the greatest Flatiron School instructors of all time, Es, as you dodge monsters and collect coffee.
 * It is a game of survival, where you have to collect all the coffee on the board in order to generate the flag that will bring you to the next level, all while dodging monsters.
 * Every level becomes harder and harder because the board generates more obstacles.
